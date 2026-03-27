@@ -1,0 +1,27 @@
+:root {
+  --clr-primary-0: hsl(225, 100%, 100%);
+  --clr-primary-100: hsl(225, 100%, 94%);
+  --clr-primary-600: hsl(250, 60%, 60%);
+  --clr-primary-700: hsl(245, 75%, 52%);
+  --clr-shadow-600: hsla(250, 60%, 60%, 50%);
+  --clr-shadow-700: hsla(245, 75%, 52%, 50%);
+
+  --clr-neutral-50: hsl(225, 100%, 98%);
+  --clr-neutral-600: hsl(224, 23%, 55%);
+  --clr-neutral-950: hsl(223, 47%, 23%);
+
+  --fs-md: 1rem;
+  --fs-lg: 1.75rem;
+
+  --fw-500: 500;
+  --fw-700: 700;
+  --fw-900: 900;
+
+  --ff-primary: "Red Hat Display", sans-serif;
+
+  --border-radius-md: 1rem;
+
+  --spacing-md: 1rem;
+  --spacing-lg: 1.25rem;
+  --spacing-lx: 2.5rem;
+}

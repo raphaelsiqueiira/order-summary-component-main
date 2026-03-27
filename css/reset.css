@@ -1,0 +1,23 @@
+body,
+main,
+article,
+section,
+img,
+h1,
+p,
+span,
+div,
+button,
+a {
+  margin: 0;
+  padding: 0;
+  font-family: inherit;
+  color: inherit;
+}
+
+/* 
+img{
+  display: block;
+  width: 100%;
+  height: auto;
+} */
